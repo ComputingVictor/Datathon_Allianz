@@ -2,7 +2,7 @@
 
 <p align="center">
 
-![imagen_readme]https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Allianz_logo.svg/2560px-Allianz_logo.svg.png)
+![imagen_readme](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Allianz_logo.svg/2560px-Allianz_logo.svg.png)
 
 
 </p>
