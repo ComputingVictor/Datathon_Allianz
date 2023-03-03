@@ -1,4 +1,4 @@
-# Datathon_Allianz
+# Datathon Allianz
 
 <p align="center">
 
@@ -10,8 +10,5 @@
 
 
 ## Project
-<<<<<<< HEAD
-Practice of the team 6 done during the I Allianz Data Talent Program in Barcelona.
-=======
-Practice done during the I Allianz Data Talent Program in Barcelona.
->>>>>>> 2d22d8e75c7cd3b9cb25f30035777b9b0c813f95
+
+Practice done during the I Allianz Data Talent Program in Barcelona by the team 6.
